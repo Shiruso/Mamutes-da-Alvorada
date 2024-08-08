@@ -13,3 +13,5 @@ Para Atualizar o programa com as novas planilhas que o Amigo Imaginário compart
 
 E para Desistalar o programa basta executar o Instalador novamente que haverá uma opção de remover todos os arquivos do programa do seu computador.
 
+E para obter as planilhas basta acessar o discord onde disponiblizo as planilhas gratuitamente em https://discord.gg/gyzbDvxUsr
+
